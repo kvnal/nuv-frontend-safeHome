@@ -64,6 +64,7 @@ ul {
     color: #202020;
     display: flex;
     margin: 1%;
+    cursor: pointer;
 }
 
 .button-wrapper {
@@ -141,4 +142,27 @@ ul {
     width: 50%;
     margin: auto;
     margin-top: 100px;
+}
+
+.bed-room{
+    cursor: pointer;
+
+}
+
+.bathroom{
+    cursor: pointer;
+
+}
+
+.gate{
+    cursor: pointer;
+
+}
+.dining-room{
+    cursor: pointer;
+
+}
+.hall-room{
+    cursor: pointer;
+
 }
